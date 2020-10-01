@@ -53,7 +53,7 @@ The application uses firebase to store stories and also it shows different twist
 # Covid Tracker
 
 I build this application when I was doing a challenge at topcoder where i have APIs for the covid-19 data so this application used to track cases all over the world.
-The application uses retrofit, data binding, and Rx java for calling API and fetch all the data in order to show on the list. I used graphs also for indicating the number of cases, deaths, and confirmed cases all over the world. Youn can also see data particular to a country.
+The application uses retrofit, data binding, and Rx java for calling API and fetch all the data in order to show on the list. I used graphs also for indicating the number of cases, deaths, and confirmed cases all over the world. You can also see data particular to a country.
 
 ### Technolgies : Android SDK , Kotlin, Xml, RxJava
 
