@@ -19,12 +19,14 @@ The application will show you the all the songs which are available in your phon
 </p>
 
 # Stry Application (Educational Application)
+<a href='https://play.google.com/store/apps/details?id=alejandro.ibague.studyapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
 
 This application is still in development and I was on the contract-based android application where I make quizzes, statistics, overlay windows, and fix some errors in different sections of the app.
 
 Application is for the students which contain questions in a quiz wrapped in a package, also the teacher can create packages with number of questions in its answer and those packages will get converted in the quiz and these packages will be available in the packaging market in the application. There are other useful features in application like a floating window where the user can enable and give answers while he is outside of the application and other features like sharing packages and give a review to packages.
 
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM
+### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
 
 <p align="center">
 <img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
@@ -34,7 +36,8 @@ Application is for the students which contain questions in a quiz wrapped in a p
 <img src="images/stry app/stry video.gif" width="190" title="Word Guess">
 </p>
 
-# Storyfy Application
+# Storyfy Application 
+<a href='https://play.google.com/store/apps/details?id=com.harshilzalavadiya.com.storyfy'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 When I was working in a company as an intern, I build this application which is basically a storytelling application where you story coming from the server and you can choose your choice in order turn story in your direction.
 
