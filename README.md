@@ -5,18 +5,17 @@
 <a href="https://drive.google.com/file/d/1sV_sSBZIPfxSgbuvSdS8_Bo38fn50pPa/view?usp=sharing" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:ankit.loma@gmail.com"><img src="https://img.shields.io/badge/Email-ankit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-# BeatPlayer Music Application
+# Notes Application
 
-This is my first application when I was learning android application development, most of the things I implement in the application is custom means I almost try not to use 3rd party libraries because I wanted to learn more deeply about low-level APIs of android.
+It's a simple notes application which uses neuormphishm user interface, MVVM architecture, android jetpack, dagger etc. It's taken the notes and save it in the room database
+and user can view , edit and delete the notes from the list.
 
+<a href='https://play.google.com/store/apps/details?id=com.jackandphantom.mytodo'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-The application will show you the all the songs which are available in your phone using the content provider and at the same time, it will create the service for the application so that you can easily play the music in the background and I use foreground service with a notification which means you can also listen to your music even if you remove the application from the background. The application also offers you the albums where you have songs according to their albums so you can listen to music based on the albums, also you can search for music in application. It also offers you a good user interface with animation so you will stick to use the application.
+### Technolgies : MVVM, Dagger2, Android Jepack, Room, Android SDK , Java, Xml
 
-### Technolgies : Android SDK , Java, Xml
+![Note app feature 1 0](./images/notes_app.gif)
 
-<p align="center">
-<img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
-</p>
 
 # Stry Application (Educational Application)
 <a href='https://play.google.com/store/apps/details?id=alejandro.ibague.studyapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
@@ -63,6 +62,20 @@ The application uses retrofit, data binding, and Rx java for calling API and fet
 <p align="center">
 <img src="images/Covid app/Artboard – 1@2x.png" width="480"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/Covid app/covid video.gif" width="210" title="Storyfy">
+</p>
+
+
+# BeatPlayer Music Application
+
+This is my first application when I was learning android application development, most of the things I implement in the application is custom means I almost try not to use 3rd party libraries because I wanted to learn more deeply about low-level APIs of android.
+
+
+The application will show you the all the songs which are available in your phone using the content provider and at the same time, it will create the service for the application so that you can easily play the music in the background and I use foreground service with a notification which means you can also listen to your music even if you remove the application from the background. The application also offers you the albums where you have songs according to their albums so you can listen to music based on the albums, also you can search for music in application. It also offers you a good user interface with animation so you will stick to use the application.
+
+### Technolgies : Android SDK , Java, Xml
+
+<p align="center">
+<img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
 </p>
 
 
