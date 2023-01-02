@@ -115,7 +115,7 @@ This application is using the OpenCV for performing computer vision algorithms i
    LICENCE
 -----
 
- Copyright 2020 Ankit kumar
+ Copyright 2022 Ankit kumar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
