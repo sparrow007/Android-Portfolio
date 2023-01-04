@@ -1,6 +1,6 @@
 # Ankit Kumar
 
-### Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements.
+### Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing
 
 <a href="mailto:ankit.loma@gmail.com"><img src="https://img.shields.io/badge/Email-ankit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
