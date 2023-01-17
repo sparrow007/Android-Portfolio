@@ -5,7 +5,7 @@
 <a href="mailto:ankit.loma@gmail.com"><img src="https://img.shields.io/badge/Email-ankit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Gojek/GOPAY Android
-Curretnly Working on the project for the android project.
+Curretnly Working on the project for the android project. start working on some new feature
 # Decathlon Application
 
 Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
